@@ -1,0 +1,14 @@
+https://lev.cs.rpi.edu/public/datasets/wild.tar.gz
+
+Need to know whether its resnet18 or resnet34 model,
+ Split a dataset into multiple training sets and test sets.
+
+# Download the dataset
+2
+!wget -O CALTECH.zip https://zenodo.org/record/4126613/files/CALTECH.zip?download=1
+
+
+You watch the Food Network.
+Chopped, Top Chef, Chef's Table
+
+Inspector Gadget, Austin Powers
