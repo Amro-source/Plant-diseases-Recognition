@@ -3,12 +3,14 @@ Computer Vision Research
 
 
 Winter
+
 1-wheat
 2-Parley
 3-Beans
 4-Alafalfa
 5-Onion
 6-Garlic
+
 
 Summer
 
@@ -20,6 +22,8 @@ Summer
 
 
 All seasons
+
+
 1-Potatoes
 2-Tomato
 3-Pepper
